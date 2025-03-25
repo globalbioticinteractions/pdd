@@ -1,0 +1,3 @@
+[![GloBI review by Elton](https://github.com/globalbioticinteractions/pdd/actions/workflows/review.yml/badge.svg)](https://github.com/globalbioticinteractions/pdd/actions) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/pdd)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/pdd) 
+
+Configuration to help make the  Landcare Research (2014-) New Zealand Fungal Herbarium (PDD) specimen association data available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org). For more information, see https://ipt.landcareresearch.co.nz and https://www.gbif.org/dataset/ee27b1b0-3b55-11dc-8c18-b8a03c50a862 .
